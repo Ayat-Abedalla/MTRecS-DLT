@@ -39,9 +39,9 @@ The weighted F1 is calculated by considering the weight of each class:
 
 ### Results
 
-- Weighted F1 score on validation dataset 0.67500855
+- Weighted F1 score on validation dataset is **0.67500855**
 
-- Weighted F1 score on test dataset 0.68898702
+- Weighted F1 score on test dataset **0.68898702**
 
 # Licence
 
