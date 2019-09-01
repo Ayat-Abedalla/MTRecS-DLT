@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jun  9 21:20:10 2019
-
-@author: Ayat_Abedalla
-"""
 
 from preprocess import *
 import numpy as np
