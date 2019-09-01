@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sat May 11 05:19:06 2019
 
-@author: ayat
-"""
 import json
 import pandas as pd
 import numpy as np
