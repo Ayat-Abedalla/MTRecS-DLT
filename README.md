@@ -45,4 +45,4 @@ The weighted F1 is calculated by considering the weight of each class:
 
 # Licence
 
-This project is licensed under the [MIT](LICENSE)
+This project is licensed under the [MIT](LICENSE).
