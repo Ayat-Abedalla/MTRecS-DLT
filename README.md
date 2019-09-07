@@ -1,6 +1,6 @@
 # MTRecS-DLT: Multi-Modal Transport Recommender System using Deep Learning and Tree Models
 
-By [Ayat Abedalla](https://github.com/Ayat-Abedalla), [Ali Fadel](https://github.com/AliOsm), [Ibraheem Tuffaha](https://github.com/IbraheemTuffaha), [Hani Al-Omari](), [Mohammad Omari](), [Malak Abdullah](https://github.com/justMLK) and [Mahmoud Al-Ayyoub](https://github.com/malayyoub).
+By [Ayat Abedalla](https://github.com/Ayat-Abedalla), [Ali Fadel](https://github.com/AliOsm), [Ibraheem Tuffaha](https://github.com/IbraheemTuffaha), [Hani Al-Omari](https://github.com/HaniAl-Omari), [Mohammad Omari](https://github.com/KasperOmari/Data-Science), [Malak Abdullah](https://github.com/justMLK) and [Mahmoud Al-Ayyoub](https://github.com/malayyoub).
 
 Multi-modal transport recommender systems aim to recommend the most appropriate transport mode for a given Origin-Destination pair (OD) and the situational context to take into account different user preferences. The model is based on the weighted average ensemble of Convolutional Neural Network (CNN) and Gradient-Boosted Decision Trees (GBDT). We have extracted context and user features from the data and then fed the features into the CNN and GBDT models to predict the most appropriate transport mode. Finally, we combine the prediction of each model by the weighted average ensembling technique. 
 
