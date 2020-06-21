@@ -1,6 +1,6 @@
 # MTRecS-DLT: Multi-Modal Transport Recommender System using Deep Learning and Tree Models
 
-This is an implementation of "[MTRecS-DLT: Multi-Modal Transport Recommender System using Deep Learning and Tree Models](https://ieeexplore.ieee.org/document/8931864)" in Python and powered by the Keras deep learning framework (Tensorflow as backend). By [Ayat Abedalla](https://github.com/Ayat-Abedalla), [Ali Fadel](https://github.com/AliOsm), [Ibraheem Tuffaha](https://github.com/IbraheemTuffaha), [Hani Al-Omari](https://github.com/HaniAl-Omari), [Mohammad Omari](https://github.com/KasperOmari/Data-Science), [Malak Abdullah](https://github.com/justMLK) and [Mahmoud Al-Ayyoub](https://github.com/malayyoub).
+This is an implementation of "[MTRecS-DLT: Multi-Modal Transport Recommender System using Deep Learning and Tree Models](https://ieeexplore.ieee.org/document/8931864)" in Python and powered by the Keras deep learning framework (Tensorflow as backend). By [Ayat Abedalla](https://github.com/Ayat-Abedalla), [Ali Fadel](https://github.com/AliOsm), [Ibraheem Tuffaha](https://github.com/IbraheemTuffaha), [Hani Al-Omari](https://github.com/HaniAl-Omari), [Mohammad Omari](https://github.com/KasperOmari), [Malak Abdullah](https://github.com/justMLK) and [Mahmoud Al-Ayyoub](https://github.com/malayyoub).
 
 ## Overview
 
